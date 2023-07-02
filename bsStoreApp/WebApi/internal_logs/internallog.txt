@@ -1,0 +1,50 @@
+2022-11-06 16:00:19.9252 Info Message Template Auto Format enabled
+2022-11-06 16:00:20.1354 Info Adding target FileTarget(Name=logfile)
+2022-11-06 16:00:20.1686 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2022-11-06 16:01:27.4142 Info Message Template Auto Format enabled
+2022-11-06 16:01:27.4672 Info Adding target FileTarget(Name=logfile)
+2022-11-06 16:01:27.4911 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2023-07-02 21:20:41.3406 Info Message Template Auto Format enabled
+2023-07-02 21:20:41.4327 Info Adding target FileTarget(Name=logfile)
+2023-07-02 21:20:41.4627 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\NetCore-LayeredArchitecture\bsStoreApp\WebApi\nlog.config
+2023-07-02 21:21:15.3557 Info Message Template Auto Format enabled
+2023-07-02 21:21:15.3935 Info Adding target FileTarget(Name=logfile)
+2023-07-02 21:21:15.4094 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\NetCore-LayeredArchitecture\bsStoreApp\WebApi\nlog.config
+2023-07-02 21:21:16.0387 Info AppDomain Shutting down. LogFactory closing...
+2023-07-02 21:21:16.0387 Info LogFactory has been closed.
+2023-07-02 21:21:21.4325 Info Message Template Auto Format enabled
+2023-07-02 21:21:21.4691 Info Adding target FileTarget(Name=logfile)
+2023-07-02 21:21:21.4850 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\NetCore-LayeredArchitecture\bsStoreApp\WebApi\nlog.config
+2023-07-02 21:21:21.9581 Info AppDomain Shutting down. LogFactory closing...
+2023-07-02 21:21:21.9581 Info LogFactory has been closed.
+2023-07-02 21:21:38.5238 Info Message Template Auto Format enabled
+2023-07-02 21:21:38.5605 Info Adding target FileTarget(Name=logfile)
+2023-07-02 21:21:38.5768 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\NetCore-LayeredArchitecture\bsStoreApp\WebApi\nlog.config
+2023-07-02 21:21:39.0459 Info AppDomain Shutting down. LogFactory closing...
+2023-07-02 21:21:39.0536 Info LogFactory has been closed.
+2023-07-02 21:21:48.0223 Info Message Template Auto Format enabled
+2023-07-02 21:21:48.0584 Info Adding target FileTarget(Name=logfile)
+2023-07-02 21:21:48.0739 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\NetCore-LayeredArchitecture\bsStoreApp\WebApi\nlog.config
+2023-07-02 21:21:48.5414 Info AppDomain Shutting down. LogFactory closing...
+2023-07-02 21:21:48.5495 Info LogFactory has been closed.
+2023-07-02 21:21:59.9776 Info Message Template Auto Format enabled
+2023-07-02 21:22:00.0141 Info Adding target FileTarget(Name=logfile)
+2023-07-02 21:22:00.0302 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\NetCore-LayeredArchitecture\bsStoreApp\WebApi\nlog.config
+2023-07-02 21:22:01.1730 Info AppDomain Shutting down. LogFactory closing...
+2023-07-02 21:22:01.1730 Info LogFactory has been closed.
+2023-07-02 21:22:10.4641 Info Message Template Auto Format enabled
+2023-07-02 21:22:10.5006 Info Adding target FileTarget(Name=logfile)
+2023-07-02 21:22:10.5163 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\NetCore-LayeredArchitecture\bsStoreApp\WebApi\nlog.config
+2023-07-02 21:22:10.9814 Info AppDomain Shutting down. LogFactory closing...
+2023-07-02 21:22:10.9890 Info LogFactory has been closed.
+2023-07-02 21:26:12.9831 Info Message Template Auto Format enabled
+2023-07-02 21:26:13.0239 Info Adding target FileTarget(Name=logfile)
+2023-07-02 21:26:13.0395 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\NetCore-LayeredArchitecture\bsStoreApp\WebApi\nlog.config
+2023-07-02 21:26:13.7057 Info AppDomain Shutting down. LogFactory closing...
+2023-07-02 21:26:13.7057 Info LogFactory has been closed.
+2023-07-02 21:26:55.1645 Info Message Template Auto Format enabled
+2023-07-02 21:26:55.2546 Info Adding target FileTarget(Name=logfile)
+2023-07-02 21:26:55.2955 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\NetCore-LayeredArchitecture\bsStoreApp\WebApi\nlog.config
+2023-07-02 22:18:07.5608 Info Message Template Auto Format enabled
+2023-07-02 22:18:07.6501 Info Adding target FileTarget(Name=logfile)
+2023-07-02 22:18:07.6771 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\NetCore-LayeredArchitecture\bsStoreApp\WebApi\nlog.config

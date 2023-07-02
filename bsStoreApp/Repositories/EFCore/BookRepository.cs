@@ -12,7 +12,7 @@ namespace Repositories.EFCore
     {
         public BookRepository(RepositoryContext context) : base(context)
         {
-
+            
         }
 
         public void CreateOneBook(Book book) => Create(book);
