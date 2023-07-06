@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kNLn/GlqTIV+yQhFcxaMar970GjBXdEbqR1E4zLK/07nRAOZVzdDkfchSIN8+Rc0BolKS1EOewu788c06HLjzw==",
+  "dgSpecHash": "fmjeWWn2+nHGOdiQr4ywdwowbQV8oprxDcIq5xyI8HvERq/m9IZLOhPuMvJseryvJO3SGsSd2gRE2e6sy9c4Ug==",
   "success": true,
   "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\furkan the universe\\AllGithubClones\\NetCore-LayeredArchitecture\\bsStoreApp\\Services\\Services.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
