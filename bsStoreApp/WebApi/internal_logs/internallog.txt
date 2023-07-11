@@ -57,3 +57,9 @@
 2023-07-07 12:08:08.8853 Info Message Template Auto Format enabled
 2023-07-07 12:08:09.0730 Info Adding target FileTarget(Name=logfile)
 2023-07-07 12:08:09.1275 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\NetCore-LayeredArchitecture\bsStoreApp\WebApi\nlog.config
+2023-07-07 12:39:37.5390 Info Message Template Auto Format enabled
+2023-07-07 12:39:37.6457 Info Adding target FileTarget(Name=logfile)
+2023-07-07 12:39:37.6732 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\NetCore-LayeredArchitecture\bsStoreApp\WebApi\nlog.config
+2023-07-11 21:35:42.9806 Info Message Template Auto Format enabled
+2023-07-11 21:35:43.0809 Info Adding target FileTarget(Name=logfile)
+2023-07-11 21:35:43.1061 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\OneDrive\Masaüstü\furkan the universe\AllGithubClones\NetCore-LayeredArchitecture\bsStoreApp\WebApi\nlog.config
